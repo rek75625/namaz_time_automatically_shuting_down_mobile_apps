@@ -1,0 +1,1 @@
+# namaz_time_automatically_shuting_down_mobile_apps
